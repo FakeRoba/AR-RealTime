@@ -6,3 +6,4 @@ Real time &amp; weather on your roleplay server!
 https://openweathermap.org
 
 when you get your apikey then put in config and you are ready to go! 
+(geo location is on Helsinki)
