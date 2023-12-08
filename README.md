@@ -1,5 +1,6 @@
+
 # AR-RealTime
-Real time &amp; weather on your roleplay server!
+Real time &amp; weather on your fivem roleplay server! (esx)
 
 # Create api key on openweathermap
 
